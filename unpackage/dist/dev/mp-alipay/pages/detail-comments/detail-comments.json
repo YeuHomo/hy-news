@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "我的文章",
+  "usingComponents": {
+    "comments-box": "/components/comments-box/comments-box",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "comments-popup": "/components/comments-popup/comments-popup"
+  }
+}
